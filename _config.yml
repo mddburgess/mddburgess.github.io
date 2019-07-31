@@ -1,6 +1,4 @@
-theme: jekyll-theme-console
+theme: jekyll-theme-tactile
 
-header_pages:
-  - index.md
-
-footer: '<a href="https://github.com/mddburgess">github</a>'
+title: Michael Burgess
+description: Software developer based in Vancouver, BC
